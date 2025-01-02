@@ -13,5 +13,22 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 
 ![image](https://github.com/user-attachments/assets/a94fa072-92e7-4b37-99fe-967f3c69595a)
 
+
 ![image](https://github.com/user-attachments/assets/db0d7ae0-ae0d-4c85-b8d3-7e9fccbb26d0)
+
+
+![image](https://github.com/user-attachments/assets/d3480859-6558-41f6-9dde-04065a522e3e)
+
+
+![image](https://github.com/user-attachments/assets/ecfcba2c-00b3-4550-b6d1-c94d722f83ae)
+
+
+![image](https://github.com/user-attachments/assets/535f3cee-9bff-4b70-89f6-76297321c9d3)
+
+
+![image](https://github.com/user-attachments/assets/df7c2415-1877-49df-85f7-606ff3dd91ec)
+
+
+
+
 
