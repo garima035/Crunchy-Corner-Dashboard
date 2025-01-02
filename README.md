@@ -8,3 +8,7 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 # Data Modal
 ![image](https://github.com/user-attachments/assets/ae830f69-5640-48ee-89af-06f43d22f6bf)
 
+# Overall Analyis view 
+## g
+
+![image](https://github.com/user-attachments/assets/a94fa072-92e7-4b37-99fe-967f3c69595a)
