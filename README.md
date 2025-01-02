@@ -14,6 +14,9 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 2. Show YoY Change for Following (Sales, Gross Profit, EBITDA, Net Profit)
 3. Trend of Sales with Net Profit with Net Profit %
 4. Show 100% Stake column chart showing (Sales, Gross Profit, Editda, Net Profit)
+5. Show Sales by Category & Location
+6. Sales bifurcation by channel
+7. Volume & Trand By Category
 
 ![image](https://github.com/user-attachments/assets/a94fa072-92e7-4b37-99fe-967f3c69595a)
 
@@ -31,6 +34,7 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 
 
 ### Optimization Of Business
+
 
 
 ![image](https://github.com/user-attachments/assets/df7c2415-1877-49df-85f7-606ff3dd91ec)
