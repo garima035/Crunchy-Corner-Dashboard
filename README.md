@@ -12,7 +12,8 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 ###  MODAL 1:  Financial Performance Analysis
 1. Overall Sales, Gross Profit, EBITDA, Net Profit, SKU
 2. Show YoY Change for Following (Sales, Gross Profit, EBITDA, Net Profit)
-3. Trend of Sales with Net Profit with PAT%
+3. Trend of Sales with Net Profit with Net Profit %
+4. Show 100% Stake column chart showing (Sales, Gross Profit, Editda, Net Profit)
 
 ![image](https://github.com/user-attachments/assets/a94fa072-92e7-4b37-99fe-967f3c69595a)
 
