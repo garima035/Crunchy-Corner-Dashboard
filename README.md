@@ -68,4 +68,5 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 
 
 
+![image](https://github.com/user-attachments/assets/180f0d6f-86c3-4495-aad9-03e75e23d96e)
 
