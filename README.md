@@ -10,7 +10,9 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 
 # Overall Analyis view 
 ###  MODAL 1:  Financial Performance Analysis
-Overall Sales,Gross Profit,EBITDA,PAT,SKU
+1. Overall Sales, Gross Profit, EBITDA, Net Profit, SKU
+2. Show YoY Change for Following (Sales, Gross Profit, EBITDA, Net Profit)
+
 ![image](https://github.com/user-attachments/assets/a94fa072-92e7-4b37-99fe-967f3c69595a)
 
 
