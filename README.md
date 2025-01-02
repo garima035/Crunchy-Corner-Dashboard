@@ -26,6 +26,9 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 ![image](https://github.com/user-attachments/assets/535f3cee-9bff-4b70-89f6-76297321c9d3)
 
 
+### Optimization Of Business
+
+
 ![image](https://github.com/user-attachments/assets/df7c2415-1877-49df-85f7-606ff3dd91ec)
 
 
