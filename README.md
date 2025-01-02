@@ -40,6 +40,7 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 ![image](https://github.com/user-attachments/assets/df7c2415-1877-49df-85f7-606ff3dd91ec)
 
 
+![image](https://github.com/user-attachments/assets/45f4211b-55f2-4b32-b6a6-d310a7463a5f)
 
 
 
