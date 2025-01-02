@@ -52,4 +52,20 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 
 
 
+![image](https://github.com/user-attachments/assets/2767e5ae-10c9-4dea-9669-4ab9e7f4f7ed)
+
+
+
+![image](https://github.com/user-attachments/assets/f49fae47-31cc-4100-8f0e-2e1e918f6987)
+
+
+
+![image](https://github.com/user-attachments/assets/1117d267-c22a-44b5-8505-bfe282bbd98b)
+
+
+
+![image](https://github.com/user-attachments/assets/306663f5-23d4-40fc-90eb-aa1431ef06fc)
+
+
+
 
