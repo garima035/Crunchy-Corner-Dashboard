@@ -12,3 +12,6 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 ###  MODAL 1:  Financial Performance Analysis
 
 ![image](https://github.com/user-attachments/assets/a94fa072-92e7-4b37-99fe-967f3c69595a)
+
+![image](https://github.com/user-attachments/assets/db0d7ae0-ae0d-4c85-b8d3-7e9fccbb26d0)
+
