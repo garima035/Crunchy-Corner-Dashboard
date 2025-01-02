@@ -48,3 +48,8 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 
 
 
+![image](https://github.com/user-attachments/assets/1be3121f-8204-4e7a-b6a6-3c2201a6a7ba)
+
+
+
+
