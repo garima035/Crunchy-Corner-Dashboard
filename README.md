@@ -33,7 +33,11 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 ![image](https://github.com/user-attachments/assets/535f3cee-9bff-4b70-89f6-76297321c9d3)
 
 
-### Optimization Of Business
+### MODAL 2: Optimization Of Business
+1. Top Category by Gross Profit & Net Revenue (Scatter Plot)
+2. Gross Profit & Volume Comparison with Average (Dynamic)
+3.  Pareto Analysis (Level 1,2,3)
+4.  Show highest sales by category and % of SKU Contribution (Tree Chart)
 
 
 
