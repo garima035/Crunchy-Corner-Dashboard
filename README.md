@@ -62,7 +62,11 @@ Filtering: First, I removed unnecessary information to clean the data. Data Clea
 
 ![image](https://github.com/user-attachments/assets/f49fae47-31cc-4100-8f0e-2e1e918f6987)
 
-
+### MODAL 3: Budgeting Analysis
+1. PVM Analysis
+2. Variance Analysis
+3. Actual Vs Budget Financial Analysis for Business Drivers ( Sales,EBITDA,PAT,Volume) with Trend YoY
+4. Actual Vs Budget Financial Analysis for Cost  Drivers ( COGS,Packging,Marketing) with Trend YoY
 
 ![image](https://github.com/user-attachments/assets/1117d267-c22a-44b5-8505-bfe282bbd98b)
 
